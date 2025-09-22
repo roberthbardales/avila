@@ -1,0 +1,12 @@
+[13-May-2025 15:46:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/conexion.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/camaralegalfortaleza.com/public_html/clef/usuario/noticias.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/camaralegalfortaleza.com/public_html/clef/usuario/noticias.php on line 2
+[13-May-2025 15:57:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/conexion.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/camaralegalfortaleza.com/public_html/clef/usuario/noticias.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/camaralegalfortaleza.com/public_html/clef/usuario/noticias.php on line 2
+[13-May-2025 15:57:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/conexion.php' (include_path='.:/usr/local/php82/pear') in /home/customer/www/camaralegalfortaleza.com/public_html/clef/usuario/noticias.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/camaralegalfortaleza.com/public_html/clef/usuario/noticias.php on line 2
